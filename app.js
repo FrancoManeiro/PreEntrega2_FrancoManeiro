@@ -68,3 +68,4 @@ while(entrada != "no"){
 
 const total = carrito.reduce( (acumulador, el) => acumulador + el.precio * el.unidades, 0);
 alert(`El total a pagar es de ${total}$, MUCHAS GRACIAS POR SU COMPRA!`);
+alert("vuelva pronto, lo esperamos!.\n Puede explorar nuestra web para conocer más acerca de nosotros.");
