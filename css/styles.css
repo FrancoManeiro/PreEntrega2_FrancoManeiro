@@ -1,0 +1,141 @@
+footer {
+    background-color: lightblue;
+    padding: 50px; }
+  
+.imgFoo {
+    height: 30px; }
+  
+h2 {
+    padding: 20px; }
+  
+header {
+    background-color: lightblue; }
+    header div {
+    display: flex;
+    justify-content: flex-start; }
+    header div a img {
+    height: 190px;
+    padding: 10px; }
+
+  
+.imgSec {
+    height: 400px;
+    width: 100%;
+    padding: 30px; }
+  
+.imgIndex {
+    height: 600px;
+    width: 100%;
+    padding: 10px; }
+  
+.imgAtencion {
+    height: 500px;
+    width: 100%;
+    padding: 10px; }
+  
+.imgMarcas {
+    height: 50px; }
+  
+.listaAtencion {
+    height: 30px; }
+  
+  
+.mixinFooter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
+  
+.textoIndex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly; }
+
+
+.textoAtencion {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly; }
+  
+h1 {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
+  
+h4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white; }
+  
+  
+main {
+    padding-bottom: 30px; }
+  
+  
+h4 {
+    padding: 10px; }
+  
+.imgIndex {
+    height: 600px; }
+    .imgIndex:hover {
+      height: 595px; }
+  
+.imgSec {
+    height: 400px; }
+    .imgSec:hover {
+      height: 395px; }
+  
+.animNav {
+    color: black; }
+    .animNav:hover {
+      color: blue; }
+  
+h1 {
+    color: white; }
+    h1:hover {
+      color: black; }
+  
+li {
+    color: black; }
+    li:hover {
+      color: white; }
+  
+  
+* {
+    padding: 0;
+    margin: 0; }
+  
+li {
+    list-style: none;
+    padding: 15px; }
+  
+a {
+    text-decoration: none; }
+  
+  
+header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; }
+  
+ 
+  
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start; }
+  
+.txtNosotros{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.imgNosotros{
+    display: flex;
+    justify-content: center;
+}
+ 
